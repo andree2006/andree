@@ -172,7 +172,7 @@ header{
 .about-us .left1{
     position: absolute;
     left: 50%;
-    top: 156%;
+    top: 144%;
 }
 
 /* Section Services*/
@@ -302,7 +302,7 @@ header{
     width: 40%;
     position: absolute;
     left: 5%;
-    top: 565%;
+    top: 515%;
 }
 
 .left2 h1{
@@ -382,7 +382,7 @@ footer{
     background-color: var(--dark-gray);
     color: #fff;
     position: absolute;
-    top: 660%;
+    top: 610%;
     width: 100%;
 }
 
